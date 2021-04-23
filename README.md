@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://hamptonlutheran.org/wp-content/uploads/2019/03/What-We%E2%80%99re-Reading_-Fifth-and-Sixth-Grade-Classroom-2.png" height="20%" width="40%">
+  <img src="https://marketingweek.imgix.net/content/uploads/2017/07/28131730/read-book_750.jpg?auto=compress,format&q=60&w=750&h=" height="20%" width="40%">
   <p>더 나은 개발자로 성장하기 위해서 책을 읽고 기록합니다.</p>
   
 </div>
