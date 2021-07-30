@@ -1,13 +1,13 @@
 <div align="center">
   
-  <img src="https://marketingweek.imgix.net/content/uploads/2017/07/28131730/read-book_750.jpg?auto=compress,format&q=60&w=750&h=" height="20%" width="40%">
-  <p>더 나은 개발자로 성장하기 위해서 책을 읽고 기록합니다.</p>
+  <img src="https://user-images.githubusercontent.com/54518332/127624252-40473090-2846-40b8-a728-6f59f3fe6e58.png" height="20%" width="20%">
+  <p>읽고 공유하며 성장합니다.</p>
   
 </div>
 
 <br>
 
-*스터디의 특성상 자바와 스프링을 다루는 분들을 위주로 구성되어 있으며 해당 기술과 관련된 주제의 책들을 주로 다룹니다.*
+
 
 ### 책을 읽읍시다 📚
 
@@ -37,3 +37,5 @@
 
 * [자바 ORM 표준 JPA 프로그래밍]() <img src="https://img.shields.io/badge/start-2021--06--01%20~-green">
 * [모던 자바 인 액션]() <img src="https://img.shields.io/badge/start-2021--05--20%20~-green">
+* [DDD Start!]()
+* [아파치 카프카 애플리케이션 프로그래밍 with 자바]()
