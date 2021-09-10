@@ -1,0 +1,3 @@
+[submodule "domain-analysis-inflearn"]
+	path = domain-analysis-inflearn
+	url = https://github.com/Today-I-Learn/domain-analysis-inflearn.git
