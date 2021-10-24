@@ -32,10 +32,9 @@
 
 <br>
 
-### 무엇을 읽을까요 ❓
+### 스터디 진행 현황
 * [토비의 스프링 3.1]()  <img src="https://img.shields.io/badge/fin-2021--04--12%20~%202021--05--31-red">
-
 * [자바 ORM 표준 JPA 프로그래밍]() <img src="https://img.shields.io/badge/fin-2021--06--01%20~%202021--08--12-red">
 * [모던 자바 인 액션]() <img src="https://img.shields.io/badge/fin-2021--05--20%20~%202021--08--05-red">
-* [DDD Start!]() <img src="https://img.shields.io/badge/start-2021--08--16%20~-green">
-* [아파치 카프카 애플리케이션 프로그래밍 with 자바]()
+* [DDD Start!]() <img src="https://img.shields.io/badge/fin-2021--08--16%20~%202021--10--30-red">
+* [Real MySQL]() <img src="https://img.shields.io/badge/start-2021--11--01%20~-green">
